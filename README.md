@@ -1,4 +1,4 @@
-# Awesome-Cybersecurity-Datasets 
+# CyberSec-Datasets 
 A curated list of amazingly awesome Cybersecurity datasets. 
 
 Please contribute to this list with new datasets by sending me a pull request or by contacting me at [@santiagohramos](https://twitter.com/santiagohramos?lang=es).
